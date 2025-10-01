@@ -1,0 +1,33 @@
+﻿Page,Section,Order,Element Type,Text
+Contact Us,nav.mty-menu,1,listItem,Brand
+Contact Us,nav.mty-menu,2,link,Brand
+Contact Us,nav.mty-menu,3,listItem,Promotions
+Contact Us,nav.mty-menu,4,link,Promotions
+Contact Us,nav.mty-menu,5,listItem,Blog
+Contact Us,nav.mty-menu,6,link,Blog
+Contact Us,nav.mty-menu,7,listItem,Case Studies
+Contact Us,nav.mty-menu,8,link,Case Studies
+Contact Us,nav.mty-menu,9,listItem,Contact
+Contact Us,nav.mty-menu,10,link,Contact
+Contact Us,mty-header-nav-area,11,button,Open menu
+Contact Us,header.mty-header,12,button,Close menu
+Contact Us,nav.mty-menu,13,listItem,Brand
+Contact Us,nav.mty-menu,14,link,Brand
+Contact Us,nav.mty-menu,15,listItem,Promotions
+Contact Us,nav.mty-menu,16,link,Promotions
+Contact Us,nav.mty-menu,17,listItem,Blog
+Contact Us,nav.mty-menu,18,link,Blog
+Contact Us,nav.mty-menu,19,listItem,Case Studies
+Contact Us,nav.mty-menu,20,link,Case Studies
+Contact Us,nav.mty-menu,21,listItem,Contact
+Contact Us,nav.mty-menu,22,link,Contact
+Contact Us,row-fluid-wrapper.row-depth-1,23,heading,Contact Us
+Contact Us,row-fluid-wrapper.row-depth-1,24,paragraph,"Have a question about our products or technical support? Fill out the form, and our team will get back to you quickly."
+Contact Us,span6.widget-span,25,link,Follow us on Facebook
+Contact Us,span6.widget-span,26,link,Follow us on LinkedIn
+Contact Us,span6.widget-span,27,link,Follow us on Twitter
+Contact Us,span6.widget-span,28,link,Follow us on Instagram
+Contact Us,nav.mty-menu,29,listItem,Privacy Policy
+Contact Us,nav.mty-menu,30,link,Privacy Policy
+Contact Us,nav.mty-menu,31,listItem,Imprint
+Contact Us,nav.mty-menu,32,link,Imprint

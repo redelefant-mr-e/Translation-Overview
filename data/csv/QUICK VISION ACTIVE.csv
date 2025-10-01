@@ -1,0 +1,214 @@
+﻿Page,Section,Order,Element Type,Text
+QUICK VISION ACTIVE,nav.mty-menu,1,listItem,Brand
+QUICK VISION ACTIVE,nav.mty-menu,2,link,Brand
+QUICK VISION ACTIVE,nav.mty-menu,3,listItem,Promotions
+QUICK VISION ACTIVE,nav.mty-menu,4,link,Promotions
+QUICK VISION ACTIVE,nav.mty-menu,5,listItem,Blog
+QUICK VISION ACTIVE,nav.mty-menu,6,link,Blog
+QUICK VISION ACTIVE,nav.mty-menu,7,listItem,Case Studies
+QUICK VISION ACTIVE,nav.mty-menu,8,link,Case Studies
+QUICK VISION ACTIVE,nav.mty-menu,9,listItem,Contact
+QUICK VISION ACTIVE,nav.mty-menu,10,link,Contact
+QUICK VISION ACTIVE,mty-header-nav-area,11,button,Open menu
+QUICK VISION ACTIVE,header.mty-header,12,button,Close menu
+QUICK VISION ACTIVE,nav.mty-menu,13,listItem,Brand
+QUICK VISION ACTIVE,nav.mty-menu,14,link,Brand
+QUICK VISION ACTIVE,nav.mty-menu,15,listItem,Promotions
+QUICK VISION ACTIVE,nav.mty-menu,16,link,Promotions
+QUICK VISION ACTIVE,nav.mty-menu,17,listItem,Blog
+QUICK VISION ACTIVE,nav.mty-menu,18,link,Blog
+QUICK VISION ACTIVE,nav.mty-menu,19,listItem,Case Studies
+QUICK VISION ACTIVE,nav.mty-menu,20,link,Case Studies
+QUICK VISION ACTIVE,nav.mty-menu,21,listItem,Contact
+QUICK VISION ACTIVE,nav.mty-menu,22,link,Contact
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,23,altText,HERO_WATCH_HERO_EDIT_25k mobile
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,24,paragraph,PRECISION YOU CAN COUNT ON
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,25,heading,QUICK VISION ACTIVE
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,26,heading,CNC SERIES
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,27,paragraph,Complete kit bundle from:
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,28,paragraph,29.999 €*
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,29,paragraph,Advance your quality control with:
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,30,listItem,Excellent optics
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,31,listItem,Powerful QVPAK software
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,32,listItem,High efficiency
+QUICK VISION ACTIVE,row-fluid-wrapper.row-depth-1,33,paragraph,*Full package contains content as described. PC not included. Bundle price for QV 202 Model.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,34,altText,robot-range-mobile
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,35,paragraph,RELIABLE & TRACEABLE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,36,paragraph,Measurement volume:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,37,paragraph,QV-Active 404: 400 x 400 x 200 mm
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,38,paragraph,QV-Active 202: 250 x 200 x 150 mm
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,39,paragraph,"QV-Active bundle brings you everything you need for CNC quality control of your delicate, small to medium-sized parts. Compact, high-quality optics, robust edge-detection, traceable – calibration chart included."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,40,paragraph,WANT TO FIND OUT HOW MULTI-SENSORS BOOST FLEXIBILITY AND EXPAND THE CAPABILITIES OF STANDARD VISION SYSTEMS?
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,41,heading,Check out our latest whitepaper:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,42,link,Download white paper
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,43,altText,QV Active - WhitePaper 1-2-1
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,44,altText,optics-mobile
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,45,heading,HYBRID ACCURACY THAT FULFILLS ALL YOUR NEEDS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,46,paragraph,Measurements from low magnification wide view to high-magnification micro view: Powered by high-definition camera with 8 position zoom optical system and interchangeable lenses – combined with tactile precision. Long working distance avoids accidental collisions.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,47,altText,lens-2
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,48,paragraph,2x LENS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,49,heading,"340,- €"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,50,altText,lens-15
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,51,paragraph,1.5x LENS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,52,heading,included
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,53,altText,lens-1
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,54,paragraph,1x LENS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,55,heading,"170,- €"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,56,paragraph,3x3 – EVERYTHING AT ONCE:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,57,paragraph,"WIDE, MID, CLOSE."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,58,heading,"AND X, Y, Z."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,59,paragraph,Unmatched lenses that provide unmatched in-depth accuracy.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,60,paragraph,"Our Z-objective lenses are at the top range of what you can get in the industry. Unique and unmatched in price/performance ratio. They deliver highest accuracy in 3 Zoom Ranges and even 3 axis and dimensions, each."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,61,paragraph,"The Precision Bundle includes the standard 1.5x Lens. Two optional lenses are available at a special price for a limited time. Giving you the precision you need, at all scales, fit for every measuring challenge."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,62,altText,zoom7
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,63,paragraph,ZOOM 7x
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,64,altText,zoom4
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,65,paragraph,ZOOM 4x
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,66,altText,zoom1
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,67,paragraph,ZOOM 1x
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,68,paragraph,3X3 – EVERYTHING AT ONCE:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,69,paragraph,"Wide, Mid, Close."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,70,heading,"And X, Y, Z."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,71,paragraph,Unmatched lenses that provide unmatched in-depth accuracy.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,72,paragraph,"Our Z-objective lenses are at the top range of what you can get in the industry. Unique and unmatched in price/performance ratio. They deliver highest accuracy in 3 Zoom Ranges and even 3 axis and dimensions, each. The Precision Bundle includes the standard 1.5x Lens. Two optional lenses are available at a special price for a limited time. Giving you the precision you need, at all scales, fit for every measuring challenge."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,73,altText,lens-2
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,74,paragraph,2x Lens
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,75,heading,"340,- €"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,76,paragraph,Zoom 7x
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,77,altText,zoom7
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,78,altText,lens-15
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,79,paragraph,1.5x Lens
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,80,heading,included
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,81,paragraph,Zoom 4x
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,82,altText,zoom4
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,83,altText,lens-1
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,84,paragraph,1x Lens
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,85,heading,"170,- €"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,86,paragraph,Zoom 1x
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,87,altText,zoom1
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,88,altText,screen_nez_Denoised beauty-removed-background copy-1
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,89,paragraph,UPGRADE TO PRO-PRODUCTIVITY.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,90,heading,QVPAK INCLUDED.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,91,heading,QV3DCAD2 AS THE PERFECT ADD-ON
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,92,paragraph,"While QVPAK software suite is included in the bundle, QV3DCAD2 completes perfection and raises efficiency via on- or off-line programming from 3D-CAD files. Easy. Intuitive. No advanced skillset needed."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,93,paragraph,QV3DCAD2
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,94,heading,SPECIAL PRICE 765 €
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,95,heading,JOIN OUR WEBINAR
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,96,paragraph,AND LEARN HOW QUICKVISION WILL BOOST YOUR PRODUCTIVITY
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,97,paragraph,HYBRID FLEXIBILITY
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,98,paragraph,Wide application spectrum for both non-contact as tactile applications
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,99,paragraph,ZOOM FROM WIDE TO MICRO
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,100,paragraph,Magnifications from wide field to micro field. Interchangeable lenses in combination with 8x optical zoom
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,101,paragraph,AUTOMATIC EDGE DETECTION
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,102,paragraph,High-quality optics with long working distance. Accurate automatic edge detection
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,103,paragraph,"FAST RAMP-UP, USER FRIENDLY"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,104,paragraph,QVEasyEditor for easy program creation. Operators are up to speed in 1–2 days with intuitive workflows.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,105,paragraph,TRUSTED SOFTWARE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,106,paragraph,"Proven QVPAK software, over 30 years of experience in vision measurement"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,107,paragraph,EXTENDS WITH YOUR NEEDS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,108,paragraph,Retrofittable touch probe option
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,109,paragraph,AUTOMATION READY
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,110,paragraph,prepared for seamless integration in full automated manufacturing
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,111,paragraph,COST SAVING
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,112,paragraph,automatic CNC measurements cycles reduce man-hours
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,113,link,WEBINAR COMING SOON
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,114,link,Download Spec Sheet
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,115,paragraph,TWO MODELS.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,116,paragraph,EACH A BUNDLED FORCE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,117,paragraph,BOTH: FITTING TO YOUR NEEDS.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,118,paragraph,AND YOUR BUDGET.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,119,paragraph,"For a limited time each model bundle comes as an fully integrated PRECISION KIT Solution. Consisting of extras, all-ready included as:"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,120,listItem,HYBRID TACTILE AND OPTICAL SYSTEM WITH 1.5 X LENS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,121,listItem,POWERFUL QVPAK SOFTWARE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,122,listItem,CALIBRATION CHART WITH HOLDER
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,123,altText,QV Active404_Front
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,124,altText,QV Active202_Front_b copy
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,125,altText,Formpak-QV_gear analysis
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,126,altText,M_CHART
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,127,paragraph,QV ACTIVE 202
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,128,heading,SMALL FOOTPRINT.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,129,heading,BIG IMPACT.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,130,heading,250 x 200 x 150mm
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,131,paragraph,PRECISION BUNDLE QV 202
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,132,heading,"from 29.999,- €*"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,133,paragraph,QV ACTIVE 404
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,134,heading,WIDE RANGE.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,135,heading,HIGH FLEXIBILITY.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,136,heading,400 x 400 x 200mm
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,137,paragraph,PRECISION BUNDLE QV 404
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,138,heading,"from 41.500,- €*"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,139,altText,QV Active202_Front_b copy
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,140,altText,QV Active404_Front
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,141,paragraph,TWO MODELS.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,142,paragraph,EACH A BUNDLED FORCE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,143,paragraph,BOTH: FITTING TO YOUR NEEDS.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,144,paragraph,AND YOUR BUDGET.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,145,paragraph,"For a limited time each model bundle comes as an fully integrated PRECISION KIT Solution. Consisting of extras, all-ready included as:"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,146,listItem,HYBRID TACTILE AND OPTICAL SYSTEM WITH 1.5 X LENS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,147,listItem,POWERFUL QVPAK SOFTWARE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,148,listItem,CALIBRATION CHART WITH HOLDER
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,149,altText,Formpak-QV_gear analysis
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,150,altText,M_CHART
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,151,paragraph,QV ACTIVE 202
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,152,heading,SMALL FOOTPRINT.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,153,heading,BIG IMPACT.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,154,heading,250 x 200 x 150mm
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,155,altText,QV Active202_Front_b copy
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,156,paragraph,PRECISION BUNDLE QV 202
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,157,heading,"from 29.999,- €"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,158,paragraph,QV ACTIVE 404
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,159,heading,WIDE RANGE.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,160,heading,HIGH FLEXIBILITY.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,161,heading,400 x 400 x 200mm
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,162,altText,QV Active404 from the front
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,163,paragraph,PRECISION BUNDLE QV 404
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,164,heading,"from 41.500,- €"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,165,paragraph,WANT TO KNOW MORE?
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,166,altText,M_QV Active_Landingpage_250625 copy
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,167,paragraph,"FUTURE READY, MULTI-SENSOR NOW OR LATER"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,168,heading,"RETROFITTABLE TOUCH PROBE KIT OPTION, PROMO PRICE 11.499 €*"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,169,paragraph,"Your demands are growing and you want to extend your capabilities?With the Touch Probe Kit Option, you are future ready. Set consists of:"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,170,listItem,TP-200 touch probe + MCR20 change rack
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,171,listItem,Calibration ring and master ball
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,172,listItem,15 pcs. styli kit
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,173,heading,WHAT OUR CUSTOMERS SAY
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,174,paragraph,"""We have been working with Mitutoyo for many years and have always encountered great professionalism in service, as well as products of great quality and reliability."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,175,paragraph,"The automotive world, of which DELLORTO is a part, has very demanding measurement requirements: with the support of Mitutoyo, we are able to guarantee the satisfaction of our customers."""
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,176,altText,Roberto Rota
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,177,heading,Roberto Rota
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,178,paragraph,"Quality & Environment Manager
+       | DELLORTO"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,179,heading,FREQUENTLY ASKED QUESTIONS
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,180,heading,Frequently Asked Questions
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,181,paragraph,A QV-Active can operate in a clean production environment or a separate measurement/inspection room.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,182,paragraph,"When using the QV-Active with touch probe, the accuracy is guaranteed in a temperature range of 18 to 23 °C."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,183,paragraph,"No, the QV-Active is equipped with mechanical high rigid and precise linear bearings."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,184,paragraph,The maximum stage load is 10 kg for QV-Active 202 and 20 kg for QV-Active 404.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,185,paragraph,The machine footprint excluding a computer desk is 570 x 767 mm for QV-Active 202 and 776 x 1303 mm for QV-Active 404.
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,186,paragraph,"For both QV-Active 202 and 404, the machine stand is standard accessory."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,187,paragraph,"Yes, for QV-Active a special I/O communication software is available (option)."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,188,paragraph,"QV-Active enables fully automatic non-contact and tactile measurements. Operator attendance during CNC measurement is not necessary, reducing labor costs. QV-Active can output in real-time measurement data to f.i. MeasurLink for statistical process control."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,189,paragraph,"QV-Active is used in many kinds of industries and applications. Because of its high-resolution color camera, zoom optical system with interchangeable lenses, and the retrofittable touch probe, it is a very powerful multi-sensor vision measuring machine."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,190,paragraph,"With an accuracy of about 3 microns in all 3 axes, its high-resolution color camera, zoom optical system with interchangeable lenses, and the retrofittable touch probe option, it fulfills the requirements of many customers in f.i. electronical-, medical-, metal working- and plastics industry."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,191,listItem,"Medical industry: f.i. dental screws, syringes, inhalers, etc..."
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,192,listItem,"Plastic and metal injection molded parts: plastic gears, metal molded parts with combined vision and touch probe measurement"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,193,listItem,"Thin and fragile parts, like rubber seals O-rings, sheet metal parts"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,194,listItem,Electrical parts like printed circuit boards (PCB)
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,195,listItem,"Watch industry, tiny gears, and metal parts"
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,196,paragraph,ENTER THE NEXT LEVEL OF VMM-EXCELLENCE
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,197,paragraph,UPGRADE TO PRO-PRODUCTIVITY
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,198,heading,SPECIAL OFFER:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,199,paragraph,Precision Bundle QV 202 from:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,200,paragraph,29.999 € *
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,201,paragraph,Precision Bundle QV 404 from:
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,202,paragraph,41.500 € *
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,203,paragraph,* Full package contains content as described
+QUICK VISION ACTIVE,main.body-container-wrapper.mty-main,204,paragraph,Fill out the form to access our whitepaper or connect with a Mitutoyo sales expert.
+QUICK VISION ACTIVE,span6.widget-span,205,link,Follow us on Facebook
+QUICK VISION ACTIVE,span6.widget-span,206,link,Follow us on LinkedIn
+QUICK VISION ACTIVE,span6.widget-span,207,link,Follow us on Twitter
+QUICK VISION ACTIVE,span6.widget-span,208,link,Follow us on Instagram
+QUICK VISION ACTIVE,nav.mty-menu,209,listItem,Privacy Policy
+QUICK VISION ACTIVE,nav.mty-menu,210,link,Privacy Policy
+QUICK VISION ACTIVE,nav.mty-menu,211,listItem,Imprint
+QUICK VISION ACTIVE,nav.mty-menu,212,link,Imprint

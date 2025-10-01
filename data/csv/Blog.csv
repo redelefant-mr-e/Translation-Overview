@@ -1,0 +1,97 @@
+﻿Page,Section,Order,Element Type,Text
+Blog,nav.mty-menu,1,listItem,Brand
+Blog,nav.mty-menu,2,link,Brand
+Blog,nav.mty-menu,3,listItem,Promotions
+Blog,nav.mty-menu,4,link,Promotions
+Blog,nav.mty-menu,5,listItem,Blog
+Blog,nav.mty-menu,6,link,Blog
+Blog,nav.mty-menu,7,listItem,Case Studies
+Blog,nav.mty-menu,8,link,Case Studies
+Blog,nav.mty-menu,9,listItem,Contact
+Blog,nav.mty-menu,10,link,Contact
+Blog,mty-header-nav-area,11,button,Open menu
+Blog,header.mty-header,12,button,Close menu
+Blog,nav.mty-menu,13,listItem,Brand
+Blog,nav.mty-menu,14,link,Brand
+Blog,nav.mty-menu,15,listItem,Promotions
+Blog,nav.mty-menu,16,link,Promotions
+Blog,nav.mty-menu,17,listItem,Blog
+Blog,nav.mty-menu,18,link,Blog
+Blog,nav.mty-menu,19,listItem,Case Studies
+Blog,nav.mty-menu,20,link,Case Studies
+Blog,nav.mty-menu,21,listItem,Contact
+Blog,nav.mty-menu,22,link,Contact
+Blog,main.body-container-wrapper.mty-main,23,paragraph,BLOG
+Blog,main.body-container-wrapper.mty-main,24,listItem,Contour Measurement
+Blog,main.body-container-wrapper.mty-main,25,link,Contour Measurement
+Blog,main.body-container-wrapper.mty-main,26,listItem,Coordinate Measuring Machine
+Blog,main.body-container-wrapper.mty-main,27,link,Coordinate Measuring Machine
+Blog,main.body-container-wrapper.mty-main,28,label,Filter Blog by tag
+Blog,main.body-container-wrapper.mty-main,29,listItem,"Shop Floor Coordinate Measuring Machines: Everything You Need to Know
+              
+            
+            
+            
+            
+              
+                Sep 15, 2025
+              
+            
+          
+          
+          
+          
+            
+              Comprehensive guide to CMMs like MiSTAR 555 in production environments
+In modern manufacturing, precision and speed are no...
+            
+          
+          
+          
+          
+            
+              Read more"
+Blog,main.body-container-wrapper.mty-main,30,altText,Shop Floor Coordinate Measuring Machines: Everything You Need to Know
+Blog,header.mty-content-header,31,heading,Shop Floor Coordinate Measuring Machines: Everything You Need to Know
+Blog,header.mty-content-header,32,link,Shop Floor Coordinate Measuring Machines: Everything You Need to Know
+Blog,main.body-container-wrapper.mty-main,33,heading,Comprehensive guide to CMMs like MiSTAR 555 in production environments
+Blog,main.body-container-wrapper.mty-main,34,paragraph,"In modern manufacturing, precision and speed are no..."
+Blog,footer.mty-content-footer,35,link,Read more
+Blog,main.body-container-wrapper.mty-main,36,listItem,"How to Interpret Contour Data: From Raw Profile to Quality Insight
+              
+            
+            
+            
+            
+              
+                Aug 18, 2025
+              
+            
+          
+          
+          
+          
+            
+              Get the most from your measurement data with these contour analysis tips
+The ability to accurately interpret contour data has...
+            
+          
+          
+          
+          
+            
+              Read more"
+Blog,main.body-container-wrapper.mty-main,37,altText,How to Interpret Contour Data: From Raw Profile to Quality Insight
+Blog,header.mty-content-header,38,heading,How to Interpret Contour Data: From Raw Profile to Quality Insight
+Blog,header.mty-content-header,39,link,How to Interpret Contour Data: From Raw Profile to Quality Insight
+Blog,main.body-container-wrapper.mty-main,40,heading,Get the most from your measurement data with these contour analysis tips
+Blog,main.body-container-wrapper.mty-main,41,paragraph,The ability to accurately interpret contour data has...
+Blog,footer.mty-content-footer,42,link,Read more
+Blog,span6.widget-span,43,link,Follow us on Facebook
+Blog,span6.widget-span,44,link,Follow us on LinkedIn
+Blog,span6.widget-span,45,link,Follow us on Twitter
+Blog,span6.widget-span,46,link,Follow us on Instagram
+Blog,nav.mty-menu,47,listItem,Privacy Policy
+Blog,nav.mty-menu,48,link,Privacy Policy
+Blog,nav.mty-menu,49,listItem,Imprint
+Blog,nav.mty-menu,50,link,Imprint

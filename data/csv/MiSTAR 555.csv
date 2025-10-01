@@ -1,0 +1,148 @@
+﻿Page,Section,Order,Element Type,Text
+MiSTAR 555,nav.mty-menu,1,listItem,Brand
+MiSTAR 555,nav.mty-menu,2,link,Brand
+MiSTAR 555,nav.mty-menu,3,listItem,Promotions
+MiSTAR 555,nav.mty-menu,4,link,Promotions
+MiSTAR 555,nav.mty-menu,5,listItem,Blog
+MiSTAR 555,nav.mty-menu,6,link,Blog
+MiSTAR 555,nav.mty-menu,7,listItem,Case Studies
+MiSTAR 555,nav.mty-menu,8,link,Case Studies
+MiSTAR 555,nav.mty-menu,9,listItem,Contact
+MiSTAR 555,nav.mty-menu,10,link,Contact
+MiSTAR 555,mty-header-nav-area,11,button,Open menu
+MiSTAR 555,header.mty-header,12,button,Close menu
+MiSTAR 555,nav.mty-menu,13,listItem,Brand
+MiSTAR 555,nav.mty-menu,14,link,Brand
+MiSTAR 555,nav.mty-menu,15,listItem,Promotions
+MiSTAR 555,nav.mty-menu,16,link,Promotions
+MiSTAR 555,nav.mty-menu,17,listItem,Blog
+MiSTAR 555,nav.mty-menu,18,link,Blog
+MiSTAR 555,nav.mty-menu,19,listItem,Case Studies
+MiSTAR 555,nav.mty-menu,20,link,Case Studies
+MiSTAR 555,nav.mty-menu,21,listItem,Contact
+MiSTAR 555,nav.mty-menu,22,link,Contact
+MiSTAR 555,row-fluid-wrapper.row-depth-1,23,altText,hero
+MiSTAR 555,row-fluid-wrapper.row-depth-1,24,paragraph,KAIZEN FOR EVERYBODY
+MiSTAR 555,row-fluid-wrapper.row-depth-1,25,heading,MiSTAR 555 CNC
+MiSTAR 555,row-fluid-wrapper.row-depth-1,26,paragraph,Complete kit bundle from:
+MiSTAR 555,row-fluid-wrapper.row-depth-1,27,paragraph,49.000 €*
+MiSTAR 555,row-fluid-wrapper.row-depth-1,28,paragraph,UPGRADE TOPRO-PRODUCTIVITY.
+MiSTAR 555,row-fluid-wrapper.row-depth-1,29,paragraph,Built for every budget.Built for every workspace.Built for every condition.
+MiSTAR 555,row-fluid-wrapper.row-depth-1,30,paragraph,*Full package contains content as described.
+MiSTAR 555,main.body-container-wrapper.mty-main,31,altText,cta-teaser
+MiSTAR 555,main.body-container-wrapper.mty-main,32,heading,SMART METROLOGY IS NO LONGER LAB-EXCLUSIVE!
+MiSTAR 555,main.body-container-wrapper.mty-main,33,paragraph,"The only space the MiSTAR 555 takes is the space you measure in. No external PC cabinets, no inflated footprint. Just clean, condensed capabiliity."
+MiSTAR 555,main.body-container-wrapper.mty-main,34,paragraph,"SMALL FOOTPRINT, BIG RANGE"
+MiSTAR 555,main.body-container-wrapper.mty-main,35,paragraph,Measurement volume:
+MiSTAR 555,main.body-container-wrapper.mty-main,36,paragraph,570 x 570 x 500 mm
+MiSTAR 555,main.body-container-wrapper.mty-main,37,paragraph,WANT TO KNOW WHY THE MISTAR 555 IS CHANGING THE GAME IN QUALITY CONTROL?
+MiSTAR 555,main.body-container-wrapper.mty-main,38,paragraph,Find out in our latest whitepaper!
+MiSTAR 555,main.body-container-wrapper.mty-main,39,link,Download white paper
+MiSTAR 555,main.body-container-wrapper.mty-main,40,altText,MiSTAR - WhitePaper page 1-2-1-1
+MiSTAR 555,main.body-container-wrapper.mty-main,41,altText,feature-teaser_1
+MiSTAR 555,main.body-container-wrapper.mty-main,42,heading,HIGH-SPEED PRECISION
+MiSTAR 555,main.body-container-wrapper.mty-main,43,paragraph,40% FASTER
+MiSTAR 555,main.body-container-wrapper.mty-main,44,paragraph,"Compared to conventional measuring machines, the cycle times are much quicker. This means you can process more parts in less time with real CMM accuracy, not compromises."
+MiSTAR 555,main.body-container-wrapper.mty-main,45,paragraph,TRACEABLE METROLOGY
+MiSTAR 555,main.body-container-wrapper.mty-main,46,paragraph,"Unlike comparator-based systems, MiSTAR 555 provides absolute measurement with complete statistical insight."
+MiSTAR 555,main.body-container-wrapper.mty-main,47,altText,feature-teaser_2
+MiSTAR 555,main.body-container-wrapper.mty-main,48,heading,SMART MANUFACTURING READY
+MiSTAR 555,main.body-container-wrapper.mty-main,49,paragraph,Fully automated process integration
+MiSTAR 555,main.body-container-wrapper.mty-main,50,paragraph,"YOUR CMM WORKS, EVEN WHEN YOU DON'T"
+MiSTAR 555,main.body-container-wrapper.mty-main,51,paragraph,"With MiSTAR 555's automation bundle, measurement continues after the shift ends."
+MiSTAR 555,main.body-container-wrapper.mty-main,52,altText,console-new
+MiSTAR 555,main.body-container-wrapper.mty-main,53,heading,PLAY IT LIKE A CONSOLE
+MiSTAR 555,main.body-container-wrapper.mty-main,54,heading,INTUITIVE Controller Interface
+MiSTAR 555,main.body-container-wrapper.mty-main,55,paragraph,"Designed for fast training and intuitive use, MiSTAR 555's interface lets operators launch measurement routines with joystick-like ease."
+MiSTAR 555,main.body-container-wrapper.mty-main,56,paragraph,"Pair it with Quick Launcher, Mitutoyo’s image-based part selection UI, and run measurements without programming knowledge."
+MiSTAR 555,main.body-container-wrapper.mty-main,57,paragraph,RELIABLE.
+MiSTAR 555,main.body-container-wrapper.mty-main,58,paragraph,ROBUST.
+MiSTAR 555,main.body-container-wrapper.mty-main,59,paragraph,READY-TO-GO.
+MiSTAR 555,main.body-container-wrapper.mty-main,60,paragraph,MiSTAR 555 is enginereed to deliver traceable accuracy even in harsh shop-floor conditions.
+MiSTAR 555,main.body-container-wrapper.mty-main,61,paragraph,"Operating between 10°C and 40°C, this CMM offers real-time temperature compensation. It is also resistant to oil, mist, and dust thanks to Mitutoyo’s Absolute Linear Scales, with no compressed air required."
+MiSTAR 555,main.body-container-wrapper.mty-main,62,altText,rainforest-new
+MiSTAR 555,main.body-container-wrapper.mty-main,63,paragraph,RELIABLE.
+MiSTAR 555,main.body-container-wrapper.mty-main,64,paragraph,ROBUST.
+MiSTAR 555,main.body-container-wrapper.mty-main,65,paragraph,READY-TO-GO.
+MiSTAR 555,main.body-container-wrapper.mty-main,66,paragraph,MiSTAR 555 is enginereed to deliver traceable accuracy even in harsh shop-floor conditions.
+MiSTAR 555,main.body-container-wrapper.mty-main,67,paragraph,"Operating between 10°C and 40°C, this CMM offers real-time temperature compensation. It is also resistant to oil, mist, and dust thanks to Mitutoyo’s Absolute Linear Scales, with no compressed air required."
+MiSTAR 555,main.body-container-wrapper.mty-main,68,altText,product-teaser-1
+MiSTAR 555,main.body-container-wrapper.mty-main,69,paragraph,YOUR READY-TO-GO MEASUREMENT SYSTEM
+MiSTAR 555,main.body-container-wrapper.mty-main,70,heading,WHAT'S INCLUDED:
+MiSTAR 555,main.body-container-wrapper.mty-main,71,listItem,PH6M with SP25M/SM25-1 high-performance scanning probe kit
+MiSTAR 555,main.body-container-wrapper.mty-main,72,listItem,More optional probe heads are available
+MiSTAR 555,main.body-container-wrapper.mty-main,73,listItem,"MCOSMOS-1, -2 or -3 CMM Software Suite"
+MiSTAR 555,main.body-container-wrapper.mty-main,74,listItem,PC and monitor
+MiSTAR 555,main.body-container-wrapper.mty-main,75,altText,mobile-mistar_orange-09-25-2
+MiSTAR 555,main.body-container-wrapper.mty-main,76,heading,MiSTAR 555 AUTOMATION WITH Space4Win
+MiSTAR 555,main.body-container-wrapper.mty-main,77,paragraph,"Space4Win: Automatically supplies correction values to your CNC machining center, enabling closed-loop production and preventing scrap parts."
+MiSTAR 555,main.body-container-wrapper.mty-main,78,paragraph,"IO interface box: Hands-free part handling, where you can plug-and-play with robots, conveyors, and existing systems."
+MiSTAR 555,main.body-container-wrapper.mty-main,79,paragraph,"MeasurLink: Monitor quality from anywhere, in real time. Get alerts, spot trends, and keep control, even without being on-site."
+MiSTAR 555,main.body-container-wrapper.mty-main,80,paragraph,"The Result?Unattended shifts, fewer interruptions, and a system that self-adjusts - even when the lights are off."
+MiSTAR 555,main.body-container-wrapper.mty-main,81,heading,REWATCH OUR WEBINAR
+MiSTAR 555,main.body-container-wrapper.mty-main,82,paragraph,AND LEARN HOW MiSTAR 555 CAN BOOST YOUR PRODUCTIVITY
+MiSTAR 555,main.body-container-wrapper.mty-main,83,paragraph,FLEXIBLE
+MiSTAR 555,main.body-container-wrapper.mty-main,84,paragraph,The MiSTAR 555 has an array of application possibilities.
+MiSTAR 555,main.body-container-wrapper.mty-main,85,paragraph,40% FASTER
+MiSTAR 555,main.body-container-wrapper.mty-main,86,paragraph,"Faster analytics than conventional CMMs, meaning you can process more parts in less time."
+MiSTAR 555,main.body-container-wrapper.mty-main,87,paragraph,EASY
+MiSTAR 555,main.body-container-wrapper.mty-main,88,paragraph,"Intuitive user interface with immediate accessibility, meaning no intense training required."
+MiSTAR 555,main.body-container-wrapper.mty-main,89,paragraph,AUTOMATION READY
+MiSTAR 555,main.body-container-wrapper.mty-main,90,paragraph,It offers seamless integration into full automated manufacturing.
+MiSTAR 555,main.body-container-wrapper.mty-main,91,paragraph,10C TO 40C
+MiSTAR 555,main.body-container-wrapper.mty-main,92,paragraph,"Operates between 10C and 40C, no need for temperature controlled environment."
+MiSTAR 555,main.body-container-wrapper.mty-main,93,paragraph,COST EFFICIENT
+MiSTAR 555,main.body-container-wrapper.mty-main,94,paragraph,Excellent price-performance ratio.
+MiSTAR 555,main.body-container-wrapper.mty-main,95,paragraph,PROVEN SOFTWARE
+MiSTAR 555,main.body-container-wrapper.mty-main,96,paragraph,"More than 30 years of software, this CMM provides trusted functionality and reliability."
+MiSTAR 555,main.body-container-wrapper.mty-main,97,paragraph,SMALL FOOTPRINT
+MiSTAR 555,main.body-container-wrapper.mty-main,98,paragraph,"With small shopfloor dimensions, there are no further add-ons necessary, simply plug-and-play."
+MiSTAR 555,main.body-container-wrapper.mty-main,99,link,Rewatch the Webinar
+MiSTAR 555,main.body-container-wrapper.mty-main,100,link,Download Spec Sheet
+MiSTAR 555,main.body-container-wrapper.mty-main,101,heading,WHAT OUR CUSTOMERS SAY
+MiSTAR 555,main.body-container-wrapper.mty-main,102,paragraph,"""Our long-standing cooperation with Mitutoyo underlines our appreciation for their commitment in both providing top quality measurement solutions and the service that goes with them."
+MiSTAR 555,main.body-container-wrapper.mty-main,103,paragraph,"We wish to thank Mitutoyo once again for the support provided and look forward to this fine partnership with pride."""
+MiSTAR 555,main.body-container-wrapper.mty-main,104,altText,FRANK ROUWELER
+MiSTAR 555,main.body-container-wrapper.mty-main,105,heading,FRANK ROUWELER
+MiSTAR 555,main.body-container-wrapper.mty-main,106,paragraph,"Director of Manufacturing and R&D
+       | Wila B.V."
+MiSTAR 555,main.body-container-wrapper.mty-main,107,heading,FREQUENTLY ASKED QUESTIONS
+MiSTAR 555,main.body-container-wrapper.mty-main,108,heading,Frequently Asked Questions
+MiSTAR 555,main.body-container-wrapper.mty-main,109,paragraph,The accuracy of the MiSTAR 555 depends on the ambient temperature and the probe system used.
+MiSTAR 555,main.body-container-wrapper.mty-main,110,paragraph,"When equipped with an SP25M probe and measured according to ISO 10360-2, the maximum permissible error (MPE) is as follows:"
+MiSTAR 555,main.body-container-wrapper.mty-main,111,listItem,18–22 °C: 2.2 + 3L/1000 µm
+MiSTAR 555,main.body-container-wrapper.mty-main,112,listItem,10–30 °C: 2.9 + 4.5L/1000 µm
+MiSTAR 555,main.body-container-wrapper.mty-main,113,listItem,10–40 °C: 3.8 + 8L/1000 µm
+MiSTAR 555,main.body-container-wrapper.mty-main,114,paragraph,"Yes, the MiSTAR 555 is built to perform directly on the shop floor."
+MiSTAR 555,main.body-container-wrapper.mty-main,115,paragraph,"It tolerates temperatures from 10°C to 40°C, resists oil and dust, and requires no compressed air, making it ideal for production-line conditions."
+MiSTAR 555,main.body-container-wrapper.mty-main,116,paragraph,The MiSTAR 555 offers a measurement volume of 570 × 500 × 500 mm (X/Y/Z) and supports a maximum load capacity of 120 kg.
+MiSTAR 555,main.body-container-wrapper.mty-main,117,paragraph,"The open, three-sided design also facilitates easy part loading, even for bulkier workpieces."
+MiSTAR 555,main.body-container-wrapper.mty-main,118,paragraph,"The MiSTAR 555 has a footprint of 1141 × 1121 mm. Including the required maintenance area, the total space needed is 2721 × 2741 mm."
+MiSTAR 555,main.body-container-wrapper.mty-main,119,paragraph,The MiSTAR 555 is designed for fast use by any operator.
+MiSTAR 555,main.body-container-wrapper.mty-main,120,paragraph,"With a joystick-style controller and image-based UI (QuickLauncher), users can run measurements with minimal training or technical background."
+MiSTAR 555,main.body-container-wrapper.mty-main,121,paragraph,The MiSTAR 555 offers up to 40% faster measuring cycles than conventional coordinate measuring machines.
+MiSTAR 555,main.body-container-wrapper.mty-main,122,paragraph,"With a maximum axis speed of 350 mm/s and a combined speed of all three axes of 606 mm/s, it significantly accelerates part inspection."
+MiSTAR 555,main.body-container-wrapper.mty-main,123,paragraph,Features such as fast scanning and the elimination of the reference run at startup help reduce downtime and increase throughput in production environments.
+MiSTAR 555,main.body-container-wrapper.mty-main,124,paragraph,"The MiSTAR is equipped with integrated temperature compensation, allowing precise measurements even in ambient temperatures ranging from 10°C to 40°C."
+MiSTAR 555,main.body-container-wrapper.mty-main,125,paragraph,It continuously monitors the temperature and automatically compensates for its influence on the measurement result. This enables reliable use directly in production.
+MiSTAR 555,main.body-container-wrapper.mty-main,126,paragraph,"The CMM integrates easily with robots, conveyors, and factory networks. Standard I/O and open architecture make plug-and-play setup possible across most automated cells."
+MiSTAR 555,main.body-container-wrapper.mty-main,127,listItem,Shop-floor compatibility (10–40 °C)
+MiSTAR 555,main.body-container-wrapper.mty-main,128,listItem,Compact footprint and integrated controller
+MiSTAR 555,main.body-container-wrapper.mty-main,129,listItem,Fast measurement cycles (up to 40% faster)
+MiSTAR 555,main.body-container-wrapper.mty-main,130,listItem,No compressed air required
+MiSTAR 555,main.body-container-wrapper.mty-main,131,listItem,Easy automation integration
+MiSTAR 555,main.body-container-wrapper.mty-main,132,listItem,Supports tactile scanning (e.g. SP25M)
+MiSTAR 555,main.body-container-wrapper.mty-main,133,heading,ENTER THE NEXT LEVEL OF CMM-EXCELLENCE
+MiSTAR 555,main.body-container-wrapper.mty-main,134,paragraph,UPGRADE TO PRO-PRODUCTIVITY
+MiSTAR 555,main.body-container-wrapper.mty-main,135,paragraph,Special Offer from:
+MiSTAR 555,main.body-container-wrapper.mty-main,136,paragraph,49.000 €
+MiSTAR 555,main.body-container-wrapper.mty-main,137,paragraph,The full automation-ready CMM bundle
+MiSTAR 555,main.body-container-wrapper.mty-main,138,paragraph,Fill out the form to access our whitepaper or connect with a Mitutoyo sales expert.
+MiSTAR 555,span6.widget-span,139,link,Follow us on Facebook
+MiSTAR 555,span6.widget-span,140,link,Follow us on LinkedIn
+MiSTAR 555,span6.widget-span,141,link,Follow us on Twitter
+MiSTAR 555,span6.widget-span,142,link,Follow us on Instagram
+MiSTAR 555,nav.mty-menu,143,listItem,Privacy Policy
+MiSTAR 555,nav.mty-menu,144,link,Privacy Policy
+MiSTAR 555,nav.mty-menu,145,listItem,Imprint
+MiSTAR 555,nav.mty-menu,146,link,Imprint

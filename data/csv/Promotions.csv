@@ -1,0 +1,85 @@
+﻿Page,Section,Order,Element Type,Text
+Promotions,nav.mty-menu,1,listItem,Brand
+Promotions,nav.mty-menu,2,link,Brand
+Promotions,nav.mty-menu,3,listItem,Promotions
+Promotions,nav.mty-menu,4,link,Promotions
+Promotions,nav.mty-menu,5,listItem,Blog
+Promotions,nav.mty-menu,6,link,Blog
+Promotions,nav.mty-menu,7,listItem,Case Studies
+Promotions,nav.mty-menu,8,link,Case Studies
+Promotions,nav.mty-menu,9,listItem,Contact
+Promotions,nav.mty-menu,10,link,Contact
+Promotions,mty-header-nav-area,11,button,Open menu
+Promotions,header.mty-header,12,button,Close menu
+Promotions,nav.mty-menu,13,listItem,Brand
+Promotions,nav.mty-menu,14,link,Brand
+Promotions,nav.mty-menu,15,listItem,Promotions
+Promotions,nav.mty-menu,16,link,Promotions
+Promotions,nav.mty-menu,17,listItem,Blog
+Promotions,nav.mty-menu,18,link,Blog
+Promotions,nav.mty-menu,19,listItem,Case Studies
+Promotions,nav.mty-menu,20,link,Case Studies
+Promotions,nav.mty-menu,21,listItem,Contact
+Promotions,nav.mty-menu,22,link,Contact
+Promotions,main.body-container-wrapper.mty-main,23,heading,PROMOTIONS
+Promotions,main.body-container-wrapper.mty-main,24,paragraph,FOR PRECISION METROLOGY
+Promotions,main.body-container-wrapper.mty-main,25,paragraph,EQUIPMENT WORLDWIDE
+Promotions,main.body-container-wrapper.mty-main,26,listItem,"MiSTAR 555
+              
+            
+          
+
+          
+            Small footprint, big performance: the MiSTAR 555 CNC CMM thrives on real factory floors. 
+          
+
+          
+            
+              Read More"
+Promotions,main.body-container-wrapper.mty-main,27,altText,Email Template Header Image - 600 x 320-2
+Promotions,header.mty-content-header,28,heading,MiSTAR 555
+Promotions,header.mty-content-header,29,link,MiSTAR 555
+Promotions,main.body-container-wrapper.mty-main,30,paragraph,"Small footprint, big performance: the MiSTAR 555 CNC CMM thrives on real factory floors."
+Promotions,footer.mty-content-footer,31,link,Read More
+Promotions,main.body-container-wrapper.mty-main,32,listItem,"Contracer CV-2100M4
+              
+            
+          
+
+          
+            Contour perfection made easy: the CV-2100M4 delivers fast, traceable 2D profile measurement right on the shop floor. 
+          
+
+          
+            
+              Read More"
+Promotions,main.body-container-wrapper.mty-main,33,altText,CONTRACE_CLOSE_PANEL copy
+Promotions,header.mty-content-header,34,heading,Contracer CV-2100M4
+Promotions,header.mty-content-header,35,link,Contracer CV-2100M4
+Promotions,main.body-container-wrapper.mty-main,36,paragraph,"Contour perfection made easy: the CV-2100M4 delivers fast, traceable 2D profile measurement right on the shop floor."
+Promotions,footer.mty-content-footer,37,link,Read More
+Promotions,main.body-container-wrapper.mty-main,38,listItem,"Quick Vision Active 202 & 404
+              
+            
+          
+
+          
+            Elevate your QC with the QV-Active: hybrid CNC vision and tactile tech with high-res optics, interchangeable zoom lenses, and automatic edge detection. 
+          
+
+          
+            
+              Read More"
+Promotions,main.body-container-wrapper.mty-main,39,altText,screen_nez_Denoised beauty-removed-background copy
+Promotions,header.mty-content-header,40,heading,Quick Vision Active 202 & 404
+Promotions,header.mty-content-header,41,link,Quick Vision Active 202 & 404
+Promotions,main.body-container-wrapper.mty-main,42,paragraph,"Elevate your QC with the QV-Active: hybrid CNC vision and tactile tech with high-res optics, interchangeable zoom lenses, and automatic edge detection."
+Promotions,footer.mty-content-footer,43,link,Read More
+Promotions,span6.widget-span,44,link,Follow us on Facebook
+Promotions,span6.widget-span,45,link,Follow us on LinkedIn
+Promotions,span6.widget-span,46,link,Follow us on Twitter
+Promotions,span6.widget-span,47,link,Follow us on Instagram
+Promotions,nav.mty-menu,48,listItem,Privacy Policy
+Promotions,nav.mty-menu,49,link,Privacy Policy
+Promotions,nav.mty-menu,50,listItem,Imprint
+Promotions,nav.mty-menu,51,link,Imprint

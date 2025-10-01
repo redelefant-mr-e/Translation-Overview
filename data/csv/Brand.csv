@@ -1,0 +1,80 @@
+﻿Page,Section,Order,Element Type,Text
+Brand,nav.mty-menu,1,listItem,Brand
+Brand,nav.mty-menu,2,link,Brand
+Brand,nav.mty-menu,3,listItem,Promotions
+Brand,nav.mty-menu,4,link,Promotions
+Brand,nav.mty-menu,5,listItem,Blog
+Brand,nav.mty-menu,6,link,Blog
+Brand,nav.mty-menu,7,listItem,Case Studies
+Brand,nav.mty-menu,8,link,Case Studies
+Brand,nav.mty-menu,9,listItem,Contact
+Brand,nav.mty-menu,10,link,Contact
+Brand,mty-header-nav-area,11,button,Open menu
+Brand,header.mty-header,12,button,Close menu
+Brand,nav.mty-menu,13,listItem,Brand
+Brand,nav.mty-menu,14,link,Brand
+Brand,nav.mty-menu,15,listItem,Promotions
+Brand,nav.mty-menu,16,link,Promotions
+Brand,nav.mty-menu,17,listItem,Blog
+Brand,nav.mty-menu,18,link,Blog
+Brand,nav.mty-menu,19,listItem,Case Studies
+Brand,nav.mty-menu,20,link,Case Studies
+Brand,nav.mty-menu,21,listItem,Contact
+Brand,nav.mty-menu,22,link,Contact
+Brand,main.body-container-wrapper.mty-main,23,heading,PRECISION
+Brand,main.body-container-wrapper.mty-main,24,heading,IS IN OUR DNA
+Brand,main.body-container-wrapper.mty-main,25,paragraph,A CULTURE OF ACCURACY.
+Brand,main.body-container-wrapper.mty-main,26,heading,KAIZEN AS A MINDSET.
+Brand,main.body-container-wrapper.mty-main,27,paragraph,4 REASONS WHY MITUTOYO MAKES THE DIFFERENCEFOR OUR CUSTOMERS.
+Brand,main.body-container-wrapper.mty-main,28,paragraph,CUSTOMER UNDERSTANDING
+Brand,main.body-container-wrapper.mty-main,29,listItem,CUSTOMER UNDERSTANDING
+Brand,main.body-container-wrapper.mty-main,30,listItem,TRUSTED BRAND
+Brand,main.body-container-wrapper.mty-main,31,listItem,VALUE OF OWNERSHIP
+Brand,main.body-container-wrapper.mty-main,32,listItem,PRODUCT QUALITY
+Brand,main.body-container-wrapper.mty-main,33,paragraph,CUSTOMER UNDERSTANDING
+Brand,main.body-container-wrapper.mty-main,34,heading,PRECISION THAT POWERS PROGRESS
+Brand,main.body-container-wrapper.mty-main,35,heading,EVERY MEASUREMENT MATTERS.
+Brand,main.body-container-wrapper.mty-main,36,paragraph,"From micrometers to measurement ecosystems, Mitutoyo delivers the data manufacturers depend on. We don’t just measure. We stay close to our customers, speaking their language and taking care of what matters most: reliable, actionable precision that drives next-generation production."
+Brand,main.body-container-wrapper.mty-main,37,heading,MEASURED CONFIDENCE.
+Brand,main.body-container-wrapper.mty-main,38,paragraph,"With Mitutoyo, quality isn’t a checkpoint, but a continuous 360° advantage. From inline inspection to predictive analytics, we equip you to take control – and keep control – in every dimension of your process."
+Brand,main.body-container-wrapper.mty-main,39,heading,CRAFTED WITH THE DISCIPLINE OF JAPANESE ENGINEERING.
+Brand,main.body-container-wrapper.mty-main,40,paragraph,"Every Mitutoyo tool carries the spirit of its origin: uncompromising quality, exacting standards, and a quiet obsession with doing things right. Down to the micron."
+Brand,main.body-container-wrapper.mty-main,41,paragraph,TRUSTED BRAND
+Brand,main.body-container-wrapper.mty-main,42,heading,AUTOMATION STARTS WITH ACCURACY
+Brand,main.body-container-wrapper.mty-main,43,heading,"NO ACCURACY, NO ADVANTAGE."
+Brand,main.body-container-wrapper.mty-main,44,paragraph,"Whether you’re automating inspections or integrating AI, it all begins with repeatability and precise data. That’s why engineers worldwide start with Mitutoyo to scale smart, not sloppy."
+Brand,main.body-container-wrapper.mty-main,45,heading,BUILT ON 90 YEARS OF RELENTLESS INNOVATION.
+Brand,main.body-container-wrapper.mty-main,46,paragraph,"Precision is in our DNA. From our first micrometer to today’s smart factory ecosystems, we’ve helped shape modern manufacturing. We’re not just part of the future. We’ve measured every step leading to it."
+Brand,main.body-container-wrapper.mty-main,47,altText,trusted-image
+Brand,main.body-container-wrapper.mty-main,48,paragraph,VALUE OF OWNERSHIP
+Brand,main.body-container-wrapper.mty-main,49,heading,"CRAFTED FOR THE SHOP FLOOR, TRUSTED WORLDWIDE"
+Brand,main.body-container-wrapper.mty-main,50,heading,ENGINEERED FOR EXTREMES.
+Brand,main.body-container-wrapper.mty-main,51,paragraph,"Our solutions perform where others pause: Right on the production line. No clean rooms. No excuses. Just reliable results, designed to minimize long-term costs and maximize total cost of ownership value."
+Brand,main.body-container-wrapper.mty-main,52,heading,BEHIND EVERY HIGH-SPEC PRODUCT IS A MITUTOYO STANDARD.
+Brand,main.body-container-wrapper.mty-main,53,paragraph,"From aerospace to medical, from one-off prototypes to benchmarking production lines, our metrology solutions ensure tight tolerances and long-term value. Supported by affordable service solutions for sustained performance."
+Brand,main.body-container-wrapper.mty-main,54,altText,rainforest-new
+Brand,main.body-container-wrapper.mty-main,55,paragraph,PRODUCT QUALITY
+Brand,main.body-container-wrapper.mty-main,56,heading,"JAPANESE PRECISION, GLOBAL TRUST."
+Brand,main.body-container-wrapper.mty-main,57,heading,BORN IN JAPAN. BUILT FOR THE WORLD.
+Brand,main.body-container-wrapper.mty-main,58,paragraph,"Mitutoyo represents the gold standard in measurement: Where meticulous design meetsindustrial scale. A recommended brand trustedworldwide, built on heritage and Japanese values."
+Brand,main.body-container-wrapper.mty-main,59,heading,HERITAGE IN EVERY HUNDREDTH.
+Brand,main.body-container-wrapper.mty-main,60,paragraph,"Rooted in Japanese mastery since 1934, Mitutoyo’s precision shapes products across the globe, ensuring consistency, confidence, and craft you can calibrate to."
+Brand,main.body-container-wrapper.mty-main,61,heading,ENGINEERED IN JAPAN. DESIGNED FOR EXCELLENCE.
+Brand,main.body-container-wrapper.mty-main,62,paragraph,"Mitutoyo blends traditional craftsmanship with next-gen innovation. Because in measurement, there’s no margin for “good enough.”"
+Brand,main.body-container-wrapper.mty-main,63,altText,brand-product_quality
+Brand,main.body-container-wrapper.mty-main,64,heading,WHAT OUR CUSTOMERS SAY
+Brand,main.body-container-wrapper.mty-main,65,paragraph,"""Our long-standing cooperation with Mitutoyo underlines our appreciation for their commitment in both providing top quality measurement solutions and the service that goes with them."
+Brand,main.body-container-wrapper.mty-main,66,paragraph,"We wish to thank Mitutoyo once again for the support provided and look forward to this fine partnership with pride."""
+Brand,main.body-container-wrapper.mty-main,67,altText,FRANK ROUWELER
+Brand,main.body-container-wrapper.mty-main,68,heading,FRANK ROUWELER
+Brand,main.body-container-wrapper.mty-main,69,paragraph,"Director of Manufacturing and R&D
+       | Wila B.V."
+Brand,main.body-container-wrapper.mty-main,70,paragraph,GET IN TOUCH
+Brand,span6.widget-span,71,link,Follow us on Facebook
+Brand,span6.widget-span,72,link,Follow us on LinkedIn
+Brand,span6.widget-span,73,link,Follow us on Twitter
+Brand,span6.widget-span,74,link,Follow us on Instagram
+Brand,nav.mty-menu,75,listItem,Privacy Policy
+Brand,nav.mty-menu,76,link,Privacy Policy
+Brand,nav.mty-menu,77,listItem,Imprint
+Brand,nav.mty-menu,78,link,Imprint
